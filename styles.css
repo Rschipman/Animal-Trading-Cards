@@ -1,1 +1,42 @@
-/* add your CSS here */
+body {
+    width: 400px;
+    border: 0.5px solid #e0e0eb;
+    box-shadow: 5px 10px #e0e0eb; 
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    padding: 5px;
+}
+
+img {
+    padding-left: 10px;
+}
+
+.info {
+    border: 0.5px solid #e0e0eb;
+    margin: 1%;
+    padding: 2%; 
+}
+
+.interesting_fact {
+    font-style: italic;
+    padding: 2%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding-bottom: 1px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.description {
+    padding: 2%;
+}
